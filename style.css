@@ -1,0 +1,55 @@
+
+        h1{
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            
+            color: rgb(255, 255, 255);
+            background-color: rgb(194, 85, 7);
+            height: auto;
+            width: 100%;
+            text-align: center;
+            border-radius: 5px;
+
+        }
+        .friend{
+            
+            border: 1px solid;
+            color: rgb(17, 214, 17);
+            border-radius: 5px;
+            margin: auto;
+            text-align: center;
+            padding: auto;
+            
+        } 
+        p{
+            color: rgb(0, 0, 0);
+        }
+        #Order{
+            color: rgb(207, 13, 78);
+        }
+        li{
+            color: rgb(73, 20, 220);
+        }
+        b{
+            color: blue;
+        }
+        .tour{
+            background-color: black;
+        }
+        span{
+            background-color: black;
+        }
+        .sss{
+            border: 1px solid rgb(204, 48, 9);
+            border-radius: 5px;
+            margin: 10px;
+            padding: auto;
+            text-align: center;
+
+        }
+        footer{
+            text-align: center;
+            font-family: monospace;
+            padding: 5px;
+            
+           
+        }
